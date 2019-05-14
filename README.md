@@ -7,6 +7,10 @@ This repository is for sharing any common resources within Capgemini Insights & 
 
 A collection of royalty free images taken from websites, including [Pexels](https://www.pexels.com/royalty-free-images/) and [Unsplash](unsplash.com). All images are free for personal and commercial use without the need for creditation. They can therefore be used in internal and external presentations.
 
+### Presentations
+
+A collection of presentation templates for internal and external use.
+
 ### Smart Analytics Robot
 
 A collection of images of the Smart Analytics (SA) Robot in a variety of positions. Can be used in internal and external Capgemini presentations with SA branding.
